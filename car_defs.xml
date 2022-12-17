@@ -1,16 +1,16 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ecus>
   <ecu_const>
-    
+
     <car name="Mazda3 MPS BK 2007-2009" wheels="215/45 R18" gears="Mazda3 MPS BK MT" mass="1410" frontal_area="2.188" drag_coeff="0.310" />
     <car name="Mazda3 MPS BL 2009-2013" wheels="225/40 R18" gears="Mazda3 MPS BL MT" mass="1395" frontal_area="2.217" drag_coeff="0.320" />
     <car name="Mazda3 BM Hatchback 2013-2016" wheels="215/45 R18" gears="" mass="1240" frontal_area="2.258" drag_coeff="0.275" />
     <car name="Mazda3 BN Hatchback 2016-2018" wheels="215/45 R18" gears="" mass="1245" frontal_area="2.258" drag_coeff="0.280" />
     
     <car name="Mazda6 MPS GG 2005-2007" wheels="215/45 R18" gears="Mazda6 MPS GG MT" mass="1590" frontal_area="2.110" drag_coeff="0.300" />
-    
+
     <car name="Mazda MX-5 RF" wheels="205/45 R17" gears="Mazda MX5 G155 ND MT" mass="1113" frontal_area="1.790" drag_coeff="0.628" dyno_corr="Dynojet (average)" />
-    
+
     <wheels>
       <element name="195/50 R16" w="205" p="50" r="16" />
       <element name="205/50 R16" w="205" p="50" r="16" />
@@ -18,7 +18,7 @@
       <element name="205/60 R16" w="205" p="60" r="16" />
       <element name="215/50 R16" w="205" p="50" r="16" />
       <element name="215/65 R16" w="205" p="65" r="16" />
-        
+
       <element name="205/45 R17" w="205" p="45" r="17" />
       <element name="205/50 R17" w="205" p="50" r="17" />
       <element name="215/40 R17" w="215" p="40" r="17" />
@@ -30,7 +30,7 @@
       <element name="235/40 R17" w="235" p="40" r="17" />
       <element name="245/40 R17" w="245" p="40" r="17" />
       <element name="235/65 R17" w="235" p="65" r="17" />
-        
+
       <element name="215/45 R18" w="215" p="45" r="18" />
       <element name="215/55 R18" w="215" p="55" r="18" />
       <element name="225/35 R18" w="225" p="35" r="18" />
@@ -39,11 +39,11 @@
       <element name="235/40 R18" w="235" p="40" r="18" />
       <element name="245/40 R18" w="245" p="40" r="18" />
       <element name="235/60 R18" w="235" p="60" r="18" />
-        
+
       <element name="225/45 R19" w="225" p="45" r="19" />
       <element name="235/55 R19" w="235" p="55" r="19" />
     </wheels>
-      
+
     <gears>
       <element name="Mazda3 MPS BK MT">
         <value id="3.941" />
@@ -90,7 +90,7 @@
         <value id="0.708" />
         <value id="0.599" />
       </element>
-        
+
       <element name="Mazda6 MPS GG MT">
         <value id="3.611" />
         <value id="3.538" />
@@ -108,9 +108,9 @@
         <value id="1.594" />
         <value id="1.286" />
         <value id="1.000" />
-      </element>        
+      </element>
     </gears>
-      
+
     <dyno_corr>
       <element name="No correction">1</element>
       <element name="EvoM comparator">1.029</element>
@@ -120,7 +120,7 @@
       <element name="E.S.P. Mustang">0.955</element>
       <element name="GST Motorsports Mustang">1.006</element>
     </dyno_corr>
-      
+
     <speed_tests>
       <element name="0-60 km/h" metric="1" from="0" to="60" />
       <element name="0-100 km/h" metric="1" from="0" to="100" />
@@ -130,7 +130,7 @@
       <element name="80-120 km/h" metric="1" from="80" to="120" />
       <element name="60-160 km/h" metric="1" from="60" to="160" />
       <element name="100-200 km/h" metric="1" from="100" to="200" />
-        
+
       <element name="0-60 mph" metric="2" from="0" to="60" />
       <element name="0-100 mph" metric="2" from="0" to="100" />
       <element name="0-125 mph" metric="2" from="0" to="125" />
@@ -139,17 +139,17 @@
       <element name="35-100 mph" metric="2" from="35" to="100" />
       <element name="60-125 mph" metric="2" from="60" to="125" />
     </speed_tests>
-      
+
     <distance_tests>
       <element name="402 meters" metric="1" to="402" />
       <element name="1000 meters" metric="1" to="1000" />
-        
+
       <element name="1/8 mile" metric="2" to="660" />
       <element name="1/4 mile" metric="2" to="1320" />
       <element name="1/2 mile" metric="2" to="2640" />
       <element name="1 mile" metric="2" to="5280" />
     </distance_tests>
-      
+
     <rpm_tests>
       <element name="2000-3000 RPM" from="2000" to="3000" />
       <element name="2500-6500 RPM" from="2500" to="6500" />
@@ -162,6 +162,6 @@
       <element name="5000-6000 RPM" from="5000" to="6000" />
       <element name="6000-7000 RPM" from="6000" to="7000" />
     </rpm_tests>
-      
+
   </ecu_const>
 </ecus>
