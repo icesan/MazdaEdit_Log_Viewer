@@ -1,0 +1,46 @@
+<ecus>
+	<ecu_tools>
+
+			<!-- MAZDAEDIT PID TEMPLATES -->
+		<template name="MAF Error (%) (MZDEDT)" type="log" expr="x+x2" auto="True">
+			<item id="shortfueltrim1(%)" type="log"/>
+			<item id="longfueltrim1(%)" type="log"/>
+		</template>
+
+		<template name="AFR Error (%) (MZDEDT)" type="log" expr="((x/x2)-1)*100" auto="True">
+			<item id="airfuelratio(afr)" type="log"/>
+			<item id="desiredequivalenceratio(afr)" type="log"/>
+			</item>
+		</template>
+
+		<!-- FORSCAN PID TEMPLATES -->
+		<template name="MAF error (FORSCAN)" type="log" expr="x+x2" auto="True">
+			<item id="shrtft1(%)(-)" type="log"/>
+			<item id="longft1(%)(-)" type="log"/>
+		</template>
+
+		<template name="MAF error (FORSCAN)" type="log_filter">
+			<item id="app(%)(-)" from="10" to="2147483647">
+				<item id="fuelsys(closedloop)" from="1044" to="2147483647"/>
+			</item>
+		</template>
+
+		<template name="AFR error (FORSCAN)" type="log" expr="((x/x2)-1)*100" auto="True">
+			<item id="eq_rat11(1)(-)" type="log"/>
+			<item id="eqrat11_cmd(1)(-)" type="log"/>
+			</item>
+		</template>
+		
+		<!-- TEST REMOVE OR MERGE -->
+		<template name="AFR Error (%) FORSCAN" type="log" expr="((x-x2)/x2)*100" auto="True">
+			<item id="eq_rat11(1)" type="log"/>
+			<item id="eqrat11_cmd(1)" type="log"/>
+		</template>	
+		
+		<template name="MAF Error (%) (FORSCAN)" type="log" expr="x+x2" auto="True">
+			<item id="shrtft1(%)" type="log"/>
+			<item id="longft1(%)" type="log"/>
+		</template>
+
+	</ecu_tools>
+</ecus>

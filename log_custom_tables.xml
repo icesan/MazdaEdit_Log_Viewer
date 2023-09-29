@@ -1,0 +1,212 @@
+<ecus>
+	<ecu_tools>
+		<log_custom_table type="3" name="RPM(6800) vs Load(5.6) 16x16">
+			<rows>
+				<value>800</value>
+				<value>1200</value>
+				<value>1600</value>
+				<value>2000</value>
+				<value>2400</value>
+				<value>2800</value>
+				<value>3200</value>
+				<value>3600</value>
+				<value>4000</value>
+				<value>4400</value>
+				<value>4800</value>
+				<value>5200</value>
+				<value>5600</value>
+				<value>6000</value>
+				<value>6400</value>
+				<value>6800</value>
+			</rows>
+			<cols>
+				<value>0.35</value>
+				<value>0.70</value>
+				<value>1.05</value>
+				<value>1.40</value>
+				<value>1.75</value>
+				<value>2.10</value>
+				<value>2.45</value>
+				<value>2.80</value>
+				<value>3.15</value>
+				<value>3.50</value>
+				<value>3.85</value>
+				<value>4.20</value>
+				<value>4.55</value>
+				<value>4.90</value>
+				<value>5.25</value>
+				<value>5.60</value>
+			</cols>
+		</log_custom_table>
+		<log_custom_table type="2" name="MZD MAF (V) 1x128">
+      <rows>
+        <value>	0.000	</value>
+        <value>	0.078	</value>
+        <value>	0.117	</value>
+        <value>	0.156	</value>
+        <value>	0.195	</value>
+        <value>	0.234	</value>
+        <value>	0.273	</value>
+        <value>	0.313	</value>
+        <value>	0.352	</value>
+        <value>	0.391	</value>
+        <value>	0.430	</value>
+        <value>	0.469	</value>
+        <value>	0.508	</value>
+        <value>	0.547	</value>
+        <value>	0.586	</value>
+        <value>	0.625	</value>
+        <value>	0.664	</value>
+        <value>	0.703	</value>
+        <value>	0.742	</value>
+        <value>	0.781	</value>
+        <value>	0.820	</value>
+        <value>	0.859	</value>
+        <value>	0.898	</value>
+        <value>	0.938	</value>
+        <value>	0.977	</value>
+        <value>	1.016	</value>
+        <value>	1.055	</value>
+        <value>	1.094	</value>
+        <value>	1.133	</value>
+        <value>	1.172	</value>
+        <value>	1.211	</value>
+        <value>	1.250	</value>
+        <value>	1.289	</value>
+        <value>	1.328	</value>
+        <value>	1.367	</value>
+        <value>	1.406	</value>
+        <value>	1.445	</value>
+        <value>	1.484	</value>
+        <value>	1.523	</value>
+        <value>	1.563	</value>
+        <value>	1.602	</value>
+        <value>	1.641	</value>
+        <value>	1.680	</value>
+        <value>	1.719	</value>
+        <value>	1.758	</value>
+        <value>	1.797	</value>
+        <value>	1.836	</value>
+        <value>	1.875	</value>
+        <value>	1.914	</value>
+        <value>	1.953	</value>
+        <value>	1.992	</value>
+        <value>	2.031	</value>
+        <value>	2.070	</value>
+        <value>	2.109	</value>
+        <value>	2.148	</value>
+        <value>	2.188	</value>
+        <value>	2.227	</value>
+        <value>	2.266	</value>
+        <value>	2.305	</value>
+        <value>	2.344	</value>
+        <value>	2.383	</value>
+        <value>	2.422	</value>
+        <value>	2.461	</value>
+        <value>	2.500	</value>
+        <value>	2.539	</value>
+        <value>	2.578	</value>
+        <value>	2.617	</value>
+        <value>	2.656	</value>
+        <value>	2.695	</value>
+        <value>	2.734	</value>
+        <value>	2.773	</value>
+        <value>	2.813	</value>
+        <value>	2.852	</value>
+        <value>	2.891	</value>
+        <value>	2.930	</value>
+        <value>	2.969	</value>
+        <value>	3.008	</value>
+        <value>	3.047	</value>
+        <value>	3.086	</value>
+        <value>	3.125	</value>
+        <value>	3.164	</value>
+        <value>	3.203	</value>
+        <value>	3.242	</value>
+        <value>	3.281	</value>
+        <value>	3.320	</value>
+        <value>	3.359	</value>
+        <value>	3.398	</value>
+        <value>	3.438	</value>
+        <value>	3.477	</value>
+        <value>	3.516	</value>
+        <value>	3.555	</value>
+        <value>	3.594	</value>
+        <value>	3.633	</value>
+        <value>	3.672	</value>
+        <value>	3.711	</value>
+        <value>	3.750	</value>
+        <value>	3.789	</value>
+        <value>	3.828	</value>
+        <value>	3.867	</value>
+        <value>	3.906	</value>
+        <value>	3.945	</value>
+        <value>	3.984	</value>
+        <value>	4.023	</value>
+        <value>	4.063	</value>
+        <value>	4.102	</value>
+        <value>	4.141	</value>
+        <value>	4.180	</value>
+        <value>	4.219	</value>
+        <value>	4.258	</value>
+        <value>	4.297	</value>
+        <value>	4.336	</value>
+        <value>	4.375	</value>
+        <value>	4.414	</value>
+        <value>	4.453	</value>
+        <value>	4.492	</value>
+        <value>	4.531	</value>
+        <value>	4.570	</value>
+        <value>	4.609	</value>
+        <value>	4.648	</value>
+        <value>	4.688	</value>
+        <value>	4.727	</value>
+        <value>	4.766	</value>
+        <value>	4.804	</value>
+        <value>	4.844	</value>
+        <value>	4.883	</value>
+        <value>	4.921	</value>
+        <value>	4.961	</value>
+        <value>	5.000	</value>
+      </rows>
+    </log_custom_table>
+		<log_custom_table type="3" name="MZD Fuel 15x13">
+			<rows>
+				<value>500</value>
+				<value>1000</value>
+				<value>1500</value>
+				<value>2000</value>
+				<value>2500</value>
+				<value>3000</value>
+				<value>3500</value>
+				<value>4000</value>
+				<value>4500</value>
+				<value>5000</value>
+				<value>5500</value>
+				<value>6000</value>
+				<value>6500</value>
+				<value>7000</value>
+				<value>7500</value>
+			</rows>
+			<cols>
+				<value>0.25</value>
+				<value>0.31</value>
+				<value>0.38</value>
+				<value>0.44</value>
+				<value>0.50</value>
+				<value>0.56</value>
+				<value>0.63</value>
+				<value>0.69</value>
+				<value>0.75</value>
+				<value>0.81</value>
+				<value>0.88</value>
+				<value>0.94</value>
+				<value>1.00</value>
+			</cols>
+		</log_custom_table>
+
+	</ecu_tools>
+</ecus>
+
+
+

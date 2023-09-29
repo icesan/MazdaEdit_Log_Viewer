@@ -8,8 +8,8 @@
     <car name="Mazda3 BN Hatchback 2016-2018" wheels="215/45 R18" gears="" mass="1245" frontal_area="2.258" drag_coeff="0.280" />
     
     <car name="Mazda6 MPS GG 2005-2007" wheels="215/45 R18" gears="Mazda6 MPS GG MT" mass="1590" frontal_area="2.110" drag_coeff="0.300" />
-
-    <car name="Mazda MX-5 RF" wheels="205/45 R17" gears="Mazda MX5 G155 ND MT" mass="1113" frontal_area="1.790" drag_coeff="0.628" dyno_corr="Dynojet (average)" />
+    <car name="Mazda MX-5 ND" wheels="205/45 R17" gears="Mazda MX5 G155 ND MT" mass="1080" frontal_area="1.790" drag_coeff="0.628" dyno_corr="Dynojet (average)" /> 
+    <car name="Mazda MX-5 RF ND" wheels="205/45 R17" gears="Mazda MX5 G155 ND MT" mass="1112" frontal_area="1.790" drag_coeff="0.628" dyno_corr="Dynojet (average)" />
 
     <wheels>
       <element name="195/50 R16" w="205" p="50" r="16" />
