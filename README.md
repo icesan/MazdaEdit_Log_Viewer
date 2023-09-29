@@ -57,9 +57,8 @@ Always make copy before replacing files with modified ones.
 1. Start MazdaEdit
 2. Click on Log Viewer
 3. Choose logfile
-4. Click on Dyno(Alt+6)
-5. Right click on PID area from drop down menu
-6. Select Custom log templates
+4. Right click on PID area from drop down menu
+5. Select Custom log templates
 
 Enjoy and join MazdaEdit Users group in facebook
 
