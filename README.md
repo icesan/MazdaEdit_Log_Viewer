@@ -49,7 +49,7 @@ Adding custom log templates
 Always make copy before replacing files with modified ones.
 
 1. If mazdaEdit is running close it
-2. Copy cust_templates.xml file to C:\C:\Users\<username>\)Documents\epifanSoftware\mazdaEdit\XMLDefs folder
+2. Copy cust_templates.xml file to C:\Users\<username>\)Documents\epifanSoftware\mazdaEdit\XMLDefs folder
 3. Choose YES to replace cust_templates file
 
 ## Usage
