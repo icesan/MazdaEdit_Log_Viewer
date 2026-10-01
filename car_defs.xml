@@ -4,12 +4,56 @@
 
     <car name="Mazda3 MPS BK 2007-2009" wheels="215/45 R18" gears="Mazda3 MPS BK MT" mass="1410" frontal_area="2.188" drag_coeff="0.310" />
     <car name="Mazda3 MPS BL 2009-2013" wheels="225/40 R18" gears="Mazda3 MPS BL MT" mass="1395" frontal_area="2.217" drag_coeff="0.320" />
-    <car name="Mazda3 BM Hatchback 2013-2016" wheels="215/45 R18" gears="" mass="1240" frontal_area="2.258" drag_coeff="0.275" />
-    <car name="Mazda3 BN Hatchback 2016-2018" wheels="215/45 R18" gears="" mass="1245" frontal_area="2.258" drag_coeff="0.280" />
-    
+    <car name="Mazda3 BM Hatchback 2013-2016" wheels="215/45 R18" gears="Mazda3 G120 BM/BN MT" mass="1240" frontal_area="2.258" drag_coeff="0.275" />
+    <car name="Mazda3 BM Hatchback 2013-2016 AT" wheels="215/45 R18" gears="Mazda3 G120 BM AT" mass="1250" frontal_area="2.258" drag_coeff="0.275" />
+    <car name="Mazda3 BN Hatchback 2016-2018" wheels="215/45 R18" gears="Mazda3 G120 BM/BN MT" mass="1245" frontal_area="2.258" drag_coeff="0.280" />
+    <car name="Mazda3 BN Hatchback 2016-2018 AT" wheels="215/45 R18" gears="Mazda3 G120 BN AT" mass="1255" frontal_area="2.258" drag_coeff="0.280" />
+    <car name="Mazda3 BM/BN Hatchback Skyactiv-D 2.2 MT" wheels="215/45 R18" gears="Mazda3 D22 BM/BN MT" mass="1320" frontal_area="2.258" drag_coeff="0.285" />
+    <car name="Mazda3 BP Hatchback 2019- Skyactiv-G 2.0 MT" wheels="215/45 R18" gears="Mazda3 G120 BP MT" mass="1340" frontal_area="2.300" drag_coeff="0.278" />
+    <car name="Mazda3 BP Hatchback 2019- Skyactiv-G 2.0 AT" wheels="215/45 R18" gears="Mazda3 G120 BP AT" mass="1345" frontal_area="2.300" drag_coeff="0.278" />
+    <car name="Mazda3 BP Hatchback 2019- Skyactiv-D 1.8 AT" wheels="215/45 R18" gears="Mazda3 D18 BP AT" mass="1420" frontal_area="2.300" drag_coeff="0.278" />
+
     <car name="Mazda6 MPS GG 2005-2007" wheels="215/45 R18" gears="Mazda6 MPS GG MT" mass="1590" frontal_area="2.110" drag_coeff="0.300" />
+    <car name="Mazda6 GJ/GL 2012-2018 Skyactiv-G 2.0 MT" wheels="225/45 R18" gears="Mazda6 G120 GJ MT" mass="1420" frontal_area="2.290" drag_coeff="0.260" />
+    <car name="Mazda6 GJ/GL 2012-2018 Skyactiv-G 2.0 AT" wheels="225/45 R18" gears="Mazda6 G120 GJ AT" mass="1430" frontal_area="2.290" drag_coeff="0.260" />
+    <car name="Mazda6 GJ/GL 2012-2018 Skyactiv-G 2.5 AT" wheels="225/45 R19" gears="Mazda6 G184 GJ AT" mass="1480" frontal_area="2.290" drag_coeff="0.260" />
+    <car name="Mazda6 GJ/GL 2012-2018 Skyactiv-D 2.2 MT" wheels="225/45 R18" gears="Mazda6 D22 GJ MT" mass="1510" frontal_area="2.290" drag_coeff="0.265" />
+    <car name="Mazda6 GJ/GL 2012-2018 Skyactiv-D 2.2 AT" wheels="225/45 R18" gears="Mazda6 D22 GJ AT" mass="1520" frontal_area="2.290" drag_coeff="0.265" />
+
     <car name="Mazda MX-5 ND" wheels="205/45 R17" gears="Mazda MX5 G155 ND MT" mass="1080" frontal_area="1.790" drag_coeff="0.628" dyno_corr="Dynojet (average)" /> 
     <car name="Mazda MX-5 RF ND" wheels="205/45 R17" gears="Mazda MX5 G155 ND MT" mass="1112" frontal_area="1.790" drag_coeff="0.628" dyno_corr="Dynojet (average)" />
+    <car name="Mazda MX-5 ND Skyactiv-G 2.0 MT" wheels="205/45 R17" gears="Mazda MX5 G160 ND MT" mass="1058" frontal_area="1.790" drag_coeff="0.628" dyno_corr="Dynojet (average)" />
+    <car name="Mazda MX-5 ND Skyactiv-G 2.0 AT" wheels="205/45 R17" gears="Mazda MX5 G160 ND AT" mass="1063" frontal_area="1.790" drag_coeff="0.628" dyno_corr="Dynojet (average)" />
+
+    <car name="Mazda CX-3 DK Skyactiv-G 1.5 MT" wheels="215/65 R16" gears="Mazda CX3 G100 DK MT" mass="1240" frontal_area="2.350" drag_coeff="0.315" />
+    <car name="Mazda CX-3 DK Skyactiv-G 1.5 AT" wheels="215/65 R16" gears="Mazda CX3 G100 DK AT" mass="1250" frontal_area="2.350" drag_coeff="0.315" />
+    <car name="Mazda CX-3 DK Skyactiv-G 2.0 AT" wheels="215/45 R18" gears="Mazda CX3 G150 DK AT" mass="1290" frontal_area="2.350" drag_coeff="0.320" />
+    <car name="Mazda CX-3 DK Skyactiv-D 1.5 AT" wheels="215/45 R18" gears="Mazda CX3 D105 DK AT" mass="1340" frontal_area="2.350" drag_coeff="0.320" />
+
+    <car name="Mazda CX-5 KF 2017- Skyactiv-G 2.0 MT" wheels="235/60 R18" gears="Mazda CX5 G165 KF MT" mass="1480" frontal_area="2.560" drag_coeff="0.330" />
+    <car name="Mazda CX-5 KF 2017- Skyactiv-G 2.0 AT" wheels="235/60 R18" gears="Mazda CX5 G165 KF AT" mass="1490" frontal_area="2.560" drag_coeff="0.330" />
+    <car name="Mazda CX-5 KF 2017- Skyactiv-G 2.5 AT" wheels="225/45 R19" gears="Mazda CX5 G194 KF AT" mass="1550" frontal_area="2.560" drag_coeff="0.330" />
+    <car name="Mazda CX-5 KF 2017- Skyactiv-D 2.2 AT" wheels="225/45 R19" gears="Mazda CX5 D184 KF AT" mass="1620" frontal_area="2.560" drag_coeff="0.335" />
+
+    <car name="Mazda CX-30 DM Skyactiv-G 2.0 MT" wheels="215/55 R18" gears="Mazda CX30 G122 DM MT" mass="1340" frontal_area="2.400" drag_coeff="0.300" />
+    <car name="Mazda CX-30 DM Skyactiv-G 2.0 AT" wheels="215/55 R18" gears="Mazda CX30 G122 DM AT" mass="1350" frontal_area="2.400" drag_coeff="0.300" />
+    <car name="Mazda CX-30 DM Skyactiv-X 2.0 AT" wheels="225/45 R19" gears="Mazda CX30 X180 DM AT" mass="1430" frontal_area="2.400" drag_coeff="0.305" />
+    <car name="Mazda CX-30 DM Skyactiv-D 1.8 AT" wheels="215/55 R18" gears="Mazda CX30 D116 DM AT" mass="1420" frontal_area="2.400" drag_coeff="0.300" />
+
+    <car name="Mazda CX-50 Skyactiv-G 2.5 AT" wheels="235/55 R19" gears="Mazda CX50 G187 AT" mass="1640" frontal_area="2.600" drag_coeff="0.350" />
+    <car name="Mazda CX-50 Skyactiv-G 2.5 Turbo AT" wheels="235/55 R19" gears="Mazda CX50 G227T AT" mass="1700" frontal_area="2.600" drag_coeff="0.350" />
+
+    <car name="Mazda CX-60 KH e-Skyactiv G 2.5 AT" wheels="235/55 R20" gears="Mazda CX60 G245 KH AT" mass="1800" frontal_area="2.650" drag_coeff="0.310" />
+    <car name="Mazda CX-60 KH e-Skyactiv D 3.3 AT" wheels="235/55 R20" gears="Mazda CX60 D254 KH AT" mass="1900" frontal_area="2.650" drag_coeff="0.310" />
+
+    <car name="Mazda CX-70 e-Skyactiv G 2.5 Turbo AT" wheels="235/55 R20" gears="Mazda CX70 G256T AT" mass="2000" frontal_area="2.700" drag_coeff="0.320" />
+    <car name="Mazda CX-70 e-Skyactiv D 3.3 AT" wheels="235/55 R20" gears="Mazda CX70 D254 AT" mass="2060" frontal_area="2.700" drag_coeff="0.320" />
+
+    <car name="Mazda CX-80 e-Skyactiv G 2.5 Turbo AT" wheels="235/55 R20" gears="Mazda CX80 G256T AT" mass="2080" frontal_area="2.750" drag_coeff="0.330" />
+    <car name="Mazda CX-80 e-Skyactiv D 3.3 AT" wheels="235/55 R20" gears="Mazda CX80 D254 AT" mass="2140" frontal_area="2.750" drag_coeff="0.330" />
+
+    <car name="Mazda CX-90 e-Skyactiv G 3.3 Turbo AT" wheels="255/45 R20" gears="Mazda CX90 G340T AT" mass="2060" frontal_area="2.800" drag_coeff="0.320" />
+    <car name="Mazda CX-90 PHEV AT" wheels="255/45 R20" gears="Mazda CX90 PHEV AT" mass="2290" frontal_area="2.800" drag_coeff="0.320" />
 
     <wheels>
       <element name="195/50 R16" w="205" p="50" r="16" />
@@ -42,6 +86,9 @@
 
       <element name="225/45 R19" w="225" p="45" r="19" />
       <element name="235/55 R19" w="235" p="55" r="19" />
+
+      <element name="235/55 R20" w="235" p="55" r="20" />
+      <element name="255/45 R20" w="255" p="45" r="20" />
     </wheels>
 
     <gears>
@@ -90,6 +137,42 @@
         <value id="0.708" />
         <value id="0.599" />
       </element>
+      <element name="Mazda3 D22 BM/BN MT">
+        <value id="3.928" />
+        <value id="3.700" />
+        <value id="1.947" />
+        <value id="1.300" />
+        <value id="1.029" />
+        <value id="0.837" />
+        <value id="0.680" />
+      </element>
+      <element name="Mazda3 G120 BP MT">
+        <value id="3.609" />
+        <value id="3.700" />
+        <value id="1.947" />
+        <value id="1.300" />
+        <value id="1.029" />
+        <value id="0.837" />
+        <value id="0.680" />
+      </element>
+      <element name="Mazda3 G120 BP AT">
+        <value id="3.991" />
+        <value id="3.552" />
+        <value id="2.022" />
+        <value id="1.452" />
+        <value id="1.000" />
+        <value id="0.708" />
+        <value id="0.599" />
+      </element>
+      <element name="Mazda3 D18 BP AT">
+        <value id="3.769" />
+        <value id="3.552" />
+        <value id="2.022" />
+        <value id="1.452" />
+        <value id="1.000" />
+        <value id="0.708" />
+        <value id="0.599" />
+      </element>
 
       <element name="Mazda6 MPS GG MT">
         <value id="3.611" />
@@ -100,6 +183,52 @@
         <value id="1.085" />
         <value id="0.853" />
       </element>
+      <element name="Mazda6 G120 GJ MT">
+        <value id="3.650" />
+        <value id="3.700" />
+        <value id="1.947" />
+        <value id="1.300" />
+        <value id="1.029" />
+        <value id="0.837" />
+        <value id="0.680" />
+      </element>
+      <element name="Mazda6 G120 GJ AT">
+        <value id="3.969" />
+        <value id="3.552" />
+        <value id="2.022" />
+        <value id="1.452" />
+        <value id="1.000" />
+        <value id="0.708" />
+        <value id="0.599" />
+      </element>
+      <element name="Mazda6 G184 GJ AT">
+        <value id="3.708" />
+        <value id="3.552" />
+        <value id="2.022" />
+        <value id="1.452" />
+        <value id="1.000" />
+        <value id="0.708" />
+        <value id="0.599" />
+      </element>
+      <element name="Mazda6 D22 GJ MT">
+        <value id="3.538" />
+        <value id="3.700" />
+        <value id="1.947" />
+        <value id="1.300" />
+        <value id="1.029" />
+        <value id="0.837" />
+        <value id="0.680" />
+      </element>
+      <element name="Mazda6 D22 GJ AT">
+        <value id="3.769" />
+        <value id="3.552" />
+        <value id="2.022" />
+        <value id="1.452" />
+        <value id="1.000" />
+        <value id="0.708" />
+        <value id="0.599" />
+      </element>
+
       <element name="Mazda MX5 G155 ND MT">
         <value id="2.866" />
         <value id="5.087" />
@@ -108,6 +237,246 @@
         <value id="1.594" />
         <value id="1.286" />
         <value id="1.000" />
+      </element>
+      <element name="Mazda MX5 G160 ND MT">
+        <value id="2.928" />
+        <value id="3.700" />
+        <value id="1.947" />
+        <value id="1.300" />
+        <value id="1.029" />
+        <value id="0.837" />
+        <value id="0.680" />
+      </element>
+      <element name="Mazda MX5 G160 ND AT">
+        <value id="3.173" />
+        <value id="3.552" />
+        <value id="2.022" />
+        <value id="1.452" />
+        <value id="1.000" />
+        <value id="0.708" />
+        <value id="0.599" />
+      </element>
+
+      <element name="Mazda CX3 G100 DK MT">
+        <value id="3.650" />
+        <value id="3.700" />
+        <value id="1.947" />
+        <value id="1.300" />
+        <value id="1.029" />
+        <value id="0.837" />
+        <value id="0.680" />
+      </element>
+      <element name="Mazda CX3 G100 DK AT">
+        <value id="4.055" />
+        <value id="3.552" />
+        <value id="2.022" />
+        <value id="1.452" />
+        <value id="1.000" />
+        <value id="0.708" />
+        <value id="0.599" />
+      </element>
+      <element name="Mazda CX3 G150 DK AT">
+        <value id="3.708" />
+        <value id="3.552" />
+        <value id="2.022" />
+        <value id="1.452" />
+        <value id="1.000" />
+        <value id="0.708" />
+        <value id="0.599" />
+      </element>
+      <element name="Mazda CX3 D105 DK AT">
+        <value id="3.588" />
+        <value id="3.552" />
+        <value id="2.022" />
+        <value id="1.452" />
+        <value id="1.000" />
+        <value id="0.708" />
+        <value id="0.599" />
+      </element>
+
+      <element name="Mazda CX5 G165 KF MT">
+        <value id="3.769" />
+        <value id="3.700" />
+        <value id="1.947" />
+        <value id="1.300" />
+        <value id="1.029" />
+        <value id="0.837" />
+        <value id="0.680" />
+      </element>
+      <element name="Mazda CX5 G165 KF AT">
+        <value id="4.055" />
+        <value id="3.552" />
+        <value id="2.022" />
+        <value id="1.452" />
+        <value id="1.000" />
+        <value id="0.708" />
+        <value id="0.599" />
+      </element>
+      <element name="Mazda CX5 G194 KF AT">
+        <value id="3.708" />
+        <value id="3.552" />
+        <value id="2.022" />
+        <value id="1.452" />
+        <value id="1.000" />
+        <value id="0.708" />
+        <value id="0.599" />
+      </element>
+      <element name="Mazda CX5 D184 KF AT">
+        <value id="3.357" />
+        <value id="3.552" />
+        <value id="2.022" />
+        <value id="1.452" />
+        <value id="1.000" />
+        <value id="0.708" />
+        <value id="0.599" />
+      </element>
+
+      <element name="Mazda CX30 G122 DM MT">
+        <value id="3.650" />
+        <value id="3.700" />
+        <value id="1.947" />
+        <value id="1.300" />
+        <value id="1.029" />
+        <value id="0.837" />
+        <value id="0.680" />
+      </element>
+      <element name="Mazda CX30 G122 DM AT">
+        <value id="3.969" />
+        <value id="3.552" />
+        <value id="2.022" />
+        <value id="1.452" />
+        <value id="1.000" />
+        <value id="0.708" />
+        <value id="0.599" />
+      </element>
+      <element name="Mazda CX30 X180 DM AT">
+        <value id="3.708" />
+        <value id="3.552" />
+        <value id="2.022" />
+        <value id="1.452" />
+        <value id="1.000" />
+        <value id="0.708" />
+        <value id="0.599" />
+      </element>
+      <element name="Mazda CX30 D116 DM AT">
+        <value id="3.357" />
+        <value id="3.552" />
+        <value id="2.022" />
+        <value id="1.452" />
+        <value id="1.000" />
+        <value id="0.708" />
+        <value id="0.599" />
+      </element>
+
+      <element name="Mazda CX50 G187 AT">
+        <value id="3.969" />
+        <value id="4.714" />
+        <value id="3.143" />
+        <value id="2.106" />
+        <value id="1.667" />
+        <value id="1.285" />
+        <value id="1.000" />
+        <value id="0.839" />
+        <value id="0.667" />
+      </element>
+      <element name="Mazda CX50 G227T AT">
+        <value id="3.552" />
+        <value id="4.714" />
+        <value id="3.143" />
+        <value id="2.106" />
+        <value id="1.667" />
+        <value id="1.285" />
+        <value id="1.000" />
+        <value id="0.839" />
+        <value id="0.667" />
+      </element>
+      <element name="Mazda CX60 G245 KH AT">
+        <value id="3.769" />
+        <value id="4.714" />
+        <value id="3.143" />
+        <value id="2.106" />
+        <value id="1.667" />
+        <value id="1.285" />
+        <value id="1.000" />
+        <value id="0.839" />
+        <value id="0.667" />
+      </element>
+      <element name="Mazda CX60 D254 KH AT">
+        <value id="3.357" />
+        <value id="4.714" />
+        <value id="3.143" />
+        <value id="2.106" />
+        <value id="1.667" />
+        <value id="1.285" />
+        <value id="1.000" />
+        <value id="0.839" />
+        <value id="0.667" />
+      </element>
+      <element name="Mazda CX70 G256T AT">
+        <value id="3.552" />
+        <value id="4.714" />
+        <value id="3.143" />
+        <value id="2.106" />
+        <value id="1.667" />
+        <value id="1.285" />
+        <value id="1.000" />
+        <value id="0.839" />
+        <value id="0.667" />
+      </element>
+      <element name="Mazda CX70 D254 AT">
+        <value id="3.357" />
+        <value id="4.714" />
+        <value id="3.143" />
+        <value id="2.106" />
+        <value id="1.667" />
+        <value id="1.285" />
+        <value id="1.000" />
+        <value id="0.839" />
+        <value id="0.667" />
+      </element>
+      <element name="Mazda CX80 G256T AT">
+        <value id="3.552" />
+        <value id="4.714" />
+        <value id="3.143" />
+        <value id="2.106" />
+        <value id="1.667" />
+        <value id="1.285" />
+        <value id="1.000" />
+        <value id="0.839" />
+        <value id="0.667" />
+      </element>
+      <element name="Mazda CX80 D254 AT">
+        <value id="3.357" />
+        <value id="4.714" />
+        <value id="3.143" />
+        <value id="2.106" />
+        <value id="1.667" />
+        <value id="1.285" />
+        <value id="1.000" />
+        <value id="0.839" />
+        <value id="0.667" />
+      </element>
+      <element name="Mazda CX90 G340T AT">
+        <value id="3.357" />
+        <value id="4.714" />
+        <value id="3.143" />
+        <value id="2.106" />
+        <value id="1.667" />
+        <value id="1.285" />
+        <value id="1.000" />
+        <value id="0.839" />
+        <value id="0.667" />
+      </element>
+      <element name="Mazda CX90 PHEV AT">
+        <value id="3.769" />
+        <value id="4.714" />
+        <value id="3.143" />
+        <value id="2.106" />
+        <value id="1.667" />
+        <value id="1.285" />
+        <value id="1.000" />
+        <value id="0.839" />
+        <value id="0.667" />
       </element>
     </gears>
 
