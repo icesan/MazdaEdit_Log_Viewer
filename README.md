@@ -2,6 +2,18 @@
 
 Removing other car maker and adding Mazda models to Mazdaedit Log Viewer vehicle list
 
+### Skyactiv-G / Skyactiv-D coverage note
+
+`car_defs.xml` includes `car` entries for Skyactiv-G and Skyactiv-D variants of
+Mazda3, Mazda6, MX-5, CX-3, CX-5, CX-30, CX-50, CX-60, CX-70, CX-80 and CX-90,
+with separate entries per gearbox (MT/AT) and engine variant, and matching
+`gears` entries. Where exact factory mass, wheel size, drag coefficient,
+frontal area or gear ratios could not be reliably sourced, representative
+placeholder values were used (shared gearbox ratio patterns with a
+model-specific final drive, consistent with how existing entries such as
+"Mazda3 G120 BM AT" / "Mazda3 G120 BN AT" already share ratios). Update these
+values with confirmed figures if more accurate logged data becomes available.
+
 ## Installation
 
 Always make copy before replacing files with modified ones.
